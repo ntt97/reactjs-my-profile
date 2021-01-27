@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/reactjs-my-profile/static/css/main.c805a85d.chunk.css",
-    "main.js": "/reactjs-my-profile/static/js/main.10fb665c.chunk.js",
-    "main.js.map": "/reactjs-my-profile/static/js/main.10fb665c.chunk.js.map",
+    "main.js": "/reactjs-my-profile/static/js/main.6c80f71e.chunk.js",
+    "main.js.map": "/reactjs-my-profile/static/js/main.6c80f71e.chunk.js.map",
     "runtime~main.js": "/reactjs-my-profile/static/js/runtime~main.81122daf.js",
     "runtime~main.js.map": "/reactjs-my-profile/static/js/runtime~main.81122daf.js.map",
     "static/js/2.159c6f23.chunk.js": "/reactjs-my-profile/static/js/2.159c6f23.chunk.js",
     "static/js/2.159c6f23.chunk.js.map": "/reactjs-my-profile/static/js/2.159c6f23.chunk.js.map",
     "index.html": "/reactjs-my-profile/index.html",
-    "precache-manifest.78162b9e2df96cc192adf6cb4434f87c.js": "/reactjs-my-profile/precache-manifest.78162b9e2df96cc192adf6cb4434f87c.js",
+    "precache-manifest.01e8aa01563f2263ddd73f2b75de0a7f.js": "/reactjs-my-profile/precache-manifest.01e8aa01563f2263ddd73f2b75de0a7f.js",
     "service-worker.js": "/reactjs-my-profile/service-worker.js",
     "static/css/main.c805a85d.chunk.css.map": "/reactjs-my-profile/static/css/main.c805a85d.chunk.css.map",
     "static/media/avatar.jpg": "/reactjs-my-profile/static/media/avatar.2af81a06.jpg",
