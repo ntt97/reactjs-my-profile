@@ -163,6 +163,23 @@ export default class App extends Component {
               My own product with Full-Stack operations
             </span>
             <div style={{ height: '10px' }} />
+            <span className={'textContentItemBody'}>Flight management</span>
+            <span
+              className={'textContentItemBody1'}
+              href={'https://moga-app.web.app'}
+            >
+              C / C++
+            </span>
+            <div style={{ height: '10px' }} />
+            <span className={'textContentItemBody'}>Inventory management</span>
+            <span
+              className={'textContentItemBody1'}
+              href={'https://moga-app.web.app'}
+            >
+              C#, SQL SERVER
+            </span>
+
+            <div style={{ height: '10px' }} />
             <span className={'textContentItemBody'}>App Shop Shoes</span>
             <span
               className={'textContentItemBody1'}
@@ -226,8 +243,13 @@ export default class App extends Component {
             <span className={'textTitleItemBody'}>Key Skills</span>
           </div>
           <div className={'viewWrapContentItemBody'}>
-            <span className={'textContentItemBody1'}>React Native - good</span>
+            <span className={'textContentItemBody1'}>
+              React Native, ReduxSaga, Typescript - good
+            </span>
             <span className={'textContentItemBody1'}>ReactJS - good</span>
+            <span className={'textContentItemBody1'}>
+              Android(Java) / IOS(Objective C)
+            </span>
             <span className={'textContentItemBody1'}>
               Firebase - intermediate
             </span>
@@ -245,6 +267,12 @@ export default class App extends Component {
             <span className={'textContentItemBody1'}>
               Firebase (Authentication, Database, Functions, Storage, Hosting,
               Cloud Messaging)
+            </span>
+            <span className={'textContentItemBody1'}>Onesignal</span>
+            <span className={'textContentItemBody1'}>Facebook sdk</span>
+            <span className={'textContentItemBody1'}>Code Push</span>
+            <span className={'textContentItemBody1'}>
+              Calendars, Location, Scan QRcode, sms OTP, RenderHtml, view PDF...{' '}
             </span>
           </div>
         </div>
