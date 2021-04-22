@@ -145,7 +145,9 @@ export default class App extends Component {
             <span className={'textContentItemBody'}>
               Interns at TMA Solution
             </span>
-            <span className={'textContentItemBody2'}>March 2020 - Present</span>
+            <span className={'textContentItemBody2'}>
+              March 2020 - June 2020
+            </span>
 
             <div style={{ height: '10px' }} />
             <span className={'textContentItemBody'}>
