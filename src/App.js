@@ -95,7 +95,7 @@ export default class App extends Component {
 
   renderBody = () => {
     let a = moment();
-    let b = moment([2020, 6, 1]);
+    let b = moment([2020, 3, 1]);
 
     let years = a.diff(b, 'year');
     b.add(years, 'years');
@@ -139,10 +139,17 @@ export default class App extends Component {
             </IconContext.Provider>
             <span className={'textTitleItemBody'}>Experience</span>
           </div>
+
           <div className={'viewWrapContentItemBody'}>
             <div style={{ height: '10px' }} />
             <span className={'textContentItemBody'}>
-              Fresher Software Engineer at EXE Corp
+              Interns at TMA Solution
+            </span>
+            <span className={'textContentItemBody2'}>March 2020 - Present</span>
+
+            <div style={{ height: '10px' }} />
+            <span className={'textContentItemBody'}>
+              Software Engineer at EXE Corp
             </span>
             <span className={'textContentItemBody2'}>June 2020 - Present</span>
           </div>
@@ -271,6 +278,8 @@ export default class App extends Component {
             <span className={'textContentItemBody1'}>Onesignal</span>
             <span className={'textContentItemBody1'}>Facebook sdk</span>
             <span className={'textContentItemBody1'}>Code Push</span>
+            <span className={'textContentItemBody1'}>React-native-netinfo</span>
+
             <span className={'textContentItemBody1'}>
               Calendars, Location, Scan QRcode, sms OTP, RenderHtml, view PDF...{' '}
             </span>
@@ -362,6 +371,11 @@ export default class App extends Component {
                 >
                   Android
                 </a>
+              </span>
+
+              <span className={'textContentItemBody1'}>
+                &#9679; Realodex (product, contribution rate 60%) (React Native,
+                Firebase,Redux Saga , Typescript, notification...){' '}
               </span>
             </div>
           </div>
